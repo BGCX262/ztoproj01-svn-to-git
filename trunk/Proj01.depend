@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1213182782 source:f:\eti\sem8\zto\proj01\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cstdlib>
+	<time.h>
+	<list>
+	"random.h"
+	"exceptions.h"
+	"edge.h"
+	"vertex.h"
+	"graph.h"
+	"sortedList.h"
+	"baza.h"
+
+1212613634 source:c:\documents and settings\agata\moje dokumenty\pg\eti8\zto\zto1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cstdlib>
+	<time.h>
+	<list>
+	"random.h"
+	"exceptions.h"
+	"edge.h"
+	"vertex.h"
+	"graph.h"
+	"sortedList.h"
+	"baza.h"
+
+1211967262 c:\documents and settings\agata\moje dokumenty\pg\eti8\zto\zto1\random.h
+	<time.h>
+
+1211914488 f:\eti\sem8\zto\proj01\random.h
+	<time.h>
+
+1213131785 source:c:\dane\blazej\ztoproj1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cstdlib>
+	<time.h>
+	<list>
+	"random.h"
+	"exceptions.h"
+	"edge.h"
+	"vertex.h"
+	"graph.h"
+	"sortedList.h"
+	"baza.h"
+
+1213119644 c:\dane\blazej\ztoproj1\random.h
+	<time.h>
+
+1212614832 c:\documents and settings\agata\moje dokumenty\pg\eti8\zto\zto1\exceptions.h
+	<sstream>
+
+1212604376 c:\documents and settings\agata\moje dokumenty\pg\eti8\zto\zto1\edge.h
+
+1212614898 c:\documents and settings\agata\moje dokumenty\pg\eti8\zto\zto1\vertex.h
+	"baza.h"
+
+1212604209 c:\documents and settings\agata\moje dokumenty\pg\eti8\zto\zto1\graph.h
+
+1212604155 c:\documents and settings\agata\moje dokumenty\pg\eti8\zto\zto1\sortedlist.h
+
+1212611756 c:\documents and settings\agata\moje dokumenty\pg\eti8\zto\zto1\baza.h
+
+1212692084 c:\dane\blazej\ztoproj1\exceptions.h
+	<sstream>
+
+1212778238 c:\dane\blazej\ztoproj1\edge.h
+
+1213131609 c:\dane\blazej\ztoproj1\vertex.h
+	"baza.h"
+
+1212692084 c:\dane\blazej\ztoproj1\baza.h
+
+1213131811 c:\dane\blazej\ztoproj1\graph.h
+	<vector>
+	<list>
+	<algorithm>
+	"edge.h"
+	"vertex.h"
+	"sortedlist.h"
+
+1213127197 c:\dane\blazej\ztoproj1\sortedlist.h
+	<list>
+
+1213181009 source:c:\documents and settings\agatka\moje dokumenty\pg\eti8\zto\zto1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cstdlib>
+	<time.h>
+	<list>
+	"random.h"
+	"exceptions.h"
+	"edge.h"
+	"vertex.h"
+	"graph.h"
+	"sortedList.h"
+	"baza.h"
+
+1212879595 c:\documents and settings\agatka\moje dokumenty\pg\eti8\zto\zto1\random.h
+	<time.h>
+
+1213180302 c:\documents and settings\agatka\moje dokumenty\pg\eti8\zto\zto1\exceptions.h
+	<sstream>
+
+1212879595 c:\documents and settings\agatka\moje dokumenty\pg\eti8\zto\zto1\edge.h
+
+1213179651 c:\documents and settings\agatka\moje dokumenty\pg\eti8\zto\zto1\vertex.h
+	"baza.h"
+
+1212879595 c:\documents and settings\agatka\moje dokumenty\pg\eti8\zto\zto1\baza.h
+
+1213178737 c:\documents and settings\agatka\moje dokumenty\pg\eti8\zto\zto1\graph.h
+	<vector>
+	<list>
+	<algorithm>
+	"edge.h"
+	"vertex.h"
+	"baza.h"
+	"sortedlist.h"
+
+1213133115 c:\documents and settings\agatka\moje dokumenty\pg\eti8\zto\zto1\sortedlist.h
+	<list>
+
+1213182782 f:\eti\sem8\zto\proj01\exceptions.h
+	<sstream>
+
+1213182782 f:\eti\sem8\zto\proj01\edge.h
+
+1213182782 f:\eti\sem8\zto\proj01\vertex.h
+	"baza.h"
+
+1213182782 f:\eti\sem8\zto\proj01\baza.h
+
+1213183084 f:\eti\sem8\zto\proj01\graph.h
+	<vector>
+	<list>
+	<algorithm>
+	"edge.h"
+	"vertex.h"
+	"baza.h"
+	"sortedlist.h"
+
+1213182782 f:\eti\sem8\zto\proj01\sortedlist.h
+	<list>
+
